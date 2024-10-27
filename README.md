@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
 </div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4bmdhMjBiMzNiMTk5bTlpMXpkazJocHF5dzFsaHViaHk0NmMybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6foCnt5DOjiL8wsGaV/giphy.webp/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVjMXgycHRhbzR4OHBqaXJvOGVqZWx4M2J5NjR5cWhsdGluZ3EwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp/giphy.gif" width="300"/>
 
 
   <div align=center">
